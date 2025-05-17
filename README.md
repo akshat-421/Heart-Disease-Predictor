@@ -9,7 +9,7 @@ I modified and extended the project by:
 * Deploying the web app using Hugging Face to provide access to anyone
 
 ## Live Demo
-[Try the heart disease predictor on Hugging Face Spaces](https://akshat421-heart-disease-predictor.hf.space/?__theme=system&deep_link=ZD0ckQ6dCl4)
+[Try the heart disease predictor on Hugging Face Spaces](https://huggingface.co/spaces/akshat421/Heart-Disease-Predictor)
 
 ## Project Overview
 This model takes 13 clinical features as input and predicts whether a person is likely to have heart disease.
