@@ -1,0 +1,8 @@
+scikit-learn
+gradio
+pandas
+numpy
+matplotlib
+seaborn
+catboost
+xgboost
